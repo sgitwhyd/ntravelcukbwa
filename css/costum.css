@@ -1,0 +1,50 @@
+/* h2 navbar */
+
+.list-inline-item{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+/* css navigasi */
+
+.navbar .collapse .nav-link {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+.navbar .collapse .btn-primary{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 15px;
+    background: 	#0000CD;
+    border: none;
+    border-radius: 20px;
+}
+/* content */
+
+.row h1 {
+    font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.row .content {
+    font-family: 'Montserrat', sans-serif;
+    color: 		#0000CD;
+    font-size: 35px;
+}
+
+.row p {
+    font-size: 15px;
+}
+
+.row .btn-secondary {
+    border-radius: 30px;
+    background: 	#0000CD;
+    border: none;
+    width: 50%;
+
+}
+
+
